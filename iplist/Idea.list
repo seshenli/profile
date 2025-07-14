@@ -3,8 +3,13 @@ DOMAIN-KEYWORD,grazie.ai,JetBrainsAi
 DOMAIN,api.app.prod.grazie.aws.intellij.net
 DOMAIN,api.jetbrains.ai
 DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,cdn.usefathom.com
