@@ -1,0 +1,15 @@
+# Apple Intelligence 核心（必须代理）
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN-SUFFIX,identity.apple.com
+DOMAIN-SUFFIX,appleid.apple.com
+
+# Siri / AI入口
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,assistant.apple.com
+
+# iCloud AI链路
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,setup.icloud.com
